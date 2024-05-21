@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34018.315
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CardGame", "CardGame\CardGame.csproj", "{D3E8B987-2CC9-4E0D-8E9F-DFA64B26C0CC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Card", "Card\Card.csproj", "{F6C25C90-3E99-43D6-8F9A-206BF79A5C9D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CardDeck", "CardDeck\CardDeck.csproj", "{2D5A704A-1E38-4100-92C5-43B8CABE0EE8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CurrentDeck", "CurrentDeck\CurrentDeck.csproj", "{B58DC4D5-A3EC-402C-AE91-11B3BCA6A622}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D3E8B987-2CC9-4E0D-8E9F-DFA64B26C0CC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D3E8B987-2CC9-4E0D-8E9F-DFA64B26C0CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D3E8B987-2CC9-4E0D-8E9F-DFA64B26C0CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D3E8B987-2CC9-4E0D-8E9F-DFA64B26C0CC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F6C25C90-3E99-43D6-8F9A-206BF79A5C9D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F6C25C90-3E99-43D6-8F9A-206BF79A5C9D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F6C25C90-3E99-43D6-8F9A-206BF79A5C9D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F6C25C90-3E99-43D6-8F9A-206BF79A5C9D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2D5A704A-1E38-4100-92C5-43B8CABE0EE8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2D5A704A-1E38-4100-92C5-43B8CABE0EE8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2D5A704A-1E38-4100-92C5-43B8CABE0EE8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2D5A704A-1E38-4100-92C5-43B8CABE0EE8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B58DC4D5-A3EC-402C-AE91-11B3BCA6A622}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B58DC4D5-A3EC-402C-AE91-11B3BCA6A622}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B58DC4D5-A3EC-402C-AE91-11B3BCA6A622}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B58DC4D5-A3EC-402C-AE91-11B3BCA6A622}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {056959E0-3CFF-455D-8B0A-BDECBD581A7D}
+	EndGlobalSection
+EndGlobal
